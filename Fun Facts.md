@@ -4,7 +4,7 @@
 <p>~ Favorite Color: Pink</p>
 <p>~ Favorite Movie: Sabrina (1995)
   
-<a href="https://github.com/camryngelliott/Sabrina-Movie-Poster/new/main">Sabrina Movie Poster</a>
+<a href="https://github.com/camryngelliott/Sabrina-Movie-Poster/blob/main/Sabrina%20Movie%20Poster.md">Sabrina Movie Poster</a>
   
   <a href="https://www.youtube.com/watch?v=1BLNlgsetDc&t=50s">Sabrina Opening Scene</a>
 <p>~ Favorite place traveled to: Los Angeles, California</p>
