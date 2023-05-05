@@ -1,6 +1,14 @@
+<!DOCTYPE html>
+<html>
+
 <a href="https://github.com/camryngelliott/Final-Project-Spring-2023/blob/main/README.md">Back to HOME</a>
 
+  <head>
 <h1>Fun Facts</h1>
+  </head>
+  
+<body>
+  
 <ul>
   <li><p>Favorite Color: Pink</p></li>
   <li><p>Favorite Movie: Sabrina (1995)</li>
@@ -16,3 +24,6 @@
 </ul>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/800px-Hollywood_Sign_%28Zuschnitt%29.jpg" alt="Hollywood Sign">
+  
+  </body>
+  </html>
