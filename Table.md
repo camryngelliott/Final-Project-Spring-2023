@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th>Bolded</th>
-    <th>Italicised</th>
+    <th>Italicized</th>
     <th>In Color</th>
   </tr>
   <tr>
