@@ -4,8 +4,8 @@
 
 <div>
 p {
-  background-color: red;
-<p>This background is red!</p>
+  background-color: blue;
+<p>This background is blue!</p>
 }
   </div>
   
