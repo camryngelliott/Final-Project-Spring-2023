@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <h1>Table</h1>
+  </head>
+  
+<body>
+
 <table>
   <tr>
     <th>Bolded</th>
@@ -20,3 +29,6 @@
   <td><p style="color:green;"></p>Green</td>
   </tr>
 </table>
+  
+  </body>
+  </html>
