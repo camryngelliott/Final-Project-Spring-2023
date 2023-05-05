@@ -15,7 +15,7 @@
 </ul>
 
 <ul>
-  <li><a href="https://github.com/camryngelliott/Sabrina-Movie-    Poster/blob/main/Sabrina%20Movie%20Poster.md">Sabrina Movie Poster</a></li>
+  <li><a href="https://github.com/camryngelliott/Sabrina-Movie-Poster/blob/main/Sabrina%20Movie%20Poster.md">Sabrina Movie Poster</a></li>
   <li><a href="https://www.youtube.com/watch?v=1BLNlgsetDc&t=50s">Sabrina Opening Scene</a></li>
 </ul>
 
